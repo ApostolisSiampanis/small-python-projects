@@ -21,3 +21,6 @@ Write a Python code that takes as input a dictionary from a file containing the 
 ### Exercise 12: ASCII Text Mirror Transformation
 **Description:**
 Write a Python code that takes as input an ASCII text file and converts each character to its "mirror" ASCII character. Mirror characters are those whose sum is 128. Display the mirrored text to the user in reverse character order.
+
+## Using This Repository
+This repository is structured to contain the Python scripts corresponding to each exercise. Each script can be run independently, and they are organized by their exercise numbers. Ensure you have Python installed on your system to run these scripts.
